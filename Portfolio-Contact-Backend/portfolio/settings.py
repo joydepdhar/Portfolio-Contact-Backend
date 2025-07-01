@@ -9,7 +9,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
 
 ALLOWED_HOSTS = [
-    'your-render-url.onrender.com',
+    'portfolio-contact-backend-1-qq4c.onrender.com',
     'localhost',
     '127.0.0.1',
 ]
